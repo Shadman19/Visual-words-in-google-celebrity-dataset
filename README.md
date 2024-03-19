@@ -12,6 +12,8 @@ Visual words in google celebrity dataset
 
 4. **Histogram Matching**: We can then use histogram matching to compare the histogram of the new image with histograms of other images in the dataset for classification purposes.
 
+The dataset is located in https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+
 ## Usage
 
 1. Set the `training_path` variable to the path containing the training images.
